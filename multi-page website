@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+<style>
+body {
+  background-color: rgb(130, 121, 130);
+}
+
+.heading {
+  background-color: pink;
+
+}
+
+p{
+  float:left
+}
+
+p {color:white}
+</style>
+<title>Kylie</title>
+</head>
+<body>
+  
+  <h1 style="color: pink;"style="font-family: typewriter
+  ">All About Kylie</h1>
+<h2 style="color:white">Isn't this just the best website ever created? Who could ever want to look at any other website?</p>
+</h2>
+
+ <p> Click <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="color:pink">here </a> to listen to Kylie's favorite song.</p>
+
+   <img src="https://onlinejpgtools.com/images/examples-onlinejpgtools/sunflower.jpg" width = 560 height = 350>
+
+   <p class="heading" style="color:black">What a pretty sunflower? 
+    Now, on the next pages, I will be talking about some very <b style="text-decoration:underline">interesting</b> topics.</p>
+   
+
+   <p> <b>pg2</b>: <a style=color:pink href="second.html">here</a></p>
+  
+   
+  </body>
+</html>
+
+
+
+
+
